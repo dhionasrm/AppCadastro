@@ -1,1 +1,1 @@
-# Aplicativo Xamarim Forms que conecta a base de dados Cadastro.
+# Aplicativo Xamarim Forms que conecta a base de dados Cadastro_.
